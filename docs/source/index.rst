@@ -19,5 +19,6 @@ Contents
    tutorial
    flowchart
    examples
+   Long Dictionary
    
    
