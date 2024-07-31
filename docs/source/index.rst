@@ -15,10 +15,11 @@ Contents
 
 .. toctree::
 
+   Long Dictionary
    resources
    tutorial
    flowchart
    examples
-   Long Dictionary
+   
    
    
