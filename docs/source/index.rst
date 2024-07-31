@@ -5,15 +5,15 @@ Patching Algorithm:
 -------------------
 for code object in errors:
    if code object is compilation/syntax:
-      check for decorators above non-function statements
+      check for decorators above non-function statements.
 
-      check for incomplete dictionary
+      check for incomplete dictionary.
 
-      check for mismatched parentheses or quotations
+      check for mismatched parentheses or quotations.
 
-      check for wrong indentation
+      check for wrong indentation.
 
-      chat GPT is good at fixing syntax errors
+      chat GPT is good at fixing syntax errors.
 
    elif code object is different bytecode:
       check for long dictionary
