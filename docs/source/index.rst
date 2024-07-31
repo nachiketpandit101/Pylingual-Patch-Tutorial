@@ -55,5 +55,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Long Dictionary
